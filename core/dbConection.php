@@ -1,6 +1,7 @@
 <?php
 
 
+
 function connection(){
     //TODO: Variable for config database access control 
     $host = 'localhost';
