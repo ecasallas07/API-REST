@@ -1,7 +1,8 @@
 # API-REST
 *Programming concepts, in this case with practical code, the API concept*
 ## Iterface Programming Aplication 
-    The API also allows us to facilitate access to data or resources that have already been designed, with the API being an interface that allows us to reuse that functionality to access those resources or data that have already been previously established, which boils down to not reinventing the wheel.
+The API also allows us to facilitate access to data or resources that have already been designed, with the API being an interface that allows us to reuse that functionality 
+to access those resources or data that have already been previously established, which boils down to not reinventing the wheel.
 **They do not need to know internal details of the other applications, which is a great advantage of the API, they work between different software.**
 
 ### Characteristics:
